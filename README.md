@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="avatar.png" alt="Avatar" width="250"/>
+</p>
+
 # 👋 Hi, I'm Kurtis (Rezliter)
 
 🌟 Independent AI creator & visionary.  
