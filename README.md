@@ -29,7 +29,7 @@ You may not use, copy, or distribute any code, designs, or ideas from my reposit
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/vytautas-tunaitis-30237617)
+- [LinkedIn](www.linkedin.com/in/vytautas-tunaitis-302376171)
 
 ---
 
